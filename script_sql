@@ -1,0 +1,3 @@
+CREATE TABLE user ( user_id int not null primary key auto_increment, LastName varchar(255), FirstName varchar(255), Address varchar(255), City varchar(255) );
+
+INSERT into user (LastName, FirstName, Address, City) values ('Gaedicke', 'Lukas', 'Algum lugar', 'Alegrete');

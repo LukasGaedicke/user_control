@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>All users in database:</h2>
+
+<table style="width:100%">
+  <tr>
+    <th>Firstname</th>
+    <th>Lastname</th>
+    <th>Address</th>
+    <th>City</th>
+  </tr>
+  <% for (i = 0; i < users.length; i++) { %>
+     <tr>
+       <td><%= users[i].FirstName%></td>
+       <td><%= users[i].LastName%></td>
+       <td><%= users[i].Address%></td>
+       <td><%= users[i].City%></td>
+     </tr>
+  <% } %>
+
+</table>
+</body>
+</html>

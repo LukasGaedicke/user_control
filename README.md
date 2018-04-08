@@ -9,14 +9,14 @@
 
 * The performance results of the application can be tracked in the [Wiki](https://github.com/LukasGaedicke/user_control/wiki) of this repository.
 
-### Download Code ###
+### Download Code: ###
 
 ```bash
 >cd ~/workspace
 >git clone https://github.com/LukasGaedicke/user_control.git
 ```
 
-### Steps for use this aplication in Ubuntu ###
+### Steps for use this aplication in Ubuntu 16.04: ###
 
 * Install MySql-Server:
 ```bash
@@ -51,10 +51,10 @@ And alter according to your connection data:
 *password: YOUR_PASS_MYSQL
 ```
 
-### Start Aplication on Ubuntu: ###
+### Start Aplication on Ubuntu 16.04: ###
 ```bash
-cd ~/workspace/user_control-master
-nodemon server.js
+>cd ~/workspace/user_control-master
+>nodemon server.js
 
 To access, in your browser url type: https://YOUR_HOST:3000 
 ```

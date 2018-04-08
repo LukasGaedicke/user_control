@@ -38,7 +38,7 @@ Tutorial of installation in: https://nodesource.com/blog/installing-node-js-tuto
 ```bash
 >mysql -u USER -p
 >create database user_control;
->use user_control;
+>use users_control;
 >CREATE TABLE user ( user_id int not null primary key auto_increment, LastName varchar(255), FirstName varchar(255), Address varchar(255), City varchar(255) );
 ```
 * Alter data of connection with MysqlServer: 

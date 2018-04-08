@@ -54,7 +54,7 @@ And alter according to your connection data:
 ### Start Aplication on Ubuntu 16.04: ###
 ```bash
 >cd ~/workspace/user_control-master
->nodemon server.js
+>node server.js
 
 To access, in your browser url type: https://YOUR_HOST:3000 
 ```

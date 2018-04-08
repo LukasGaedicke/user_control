@@ -1,4 +1,4 @@
-# user_control #
+# Module of control of users #
 
 
 ## Overview ##

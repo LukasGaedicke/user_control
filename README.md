@@ -5,7 +5,7 @@
 
 * This project is a module for user registration and viewing of the list of registered users.
 
-* Its main purpose is to serve as an application to receive load tests using the [OpenSTA](http://opensta.org/) tool.
+* Its main purpose is to serve as an application to receive performance tests using the [OpenSTA](http://opensta.org/) tool.
 
 * The performance results of the application can be tracked in the [Wiki](https://github.com/LukasGaedicke/user_control/wiki) of this repository.
 

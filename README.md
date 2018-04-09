@@ -59,5 +59,5 @@ And alter according to your connection data:
 To access, in your browser url type: https://YOUR_HOST:3000 
 ```
 
-Bugs? Create one [issue](https://github.com/LukasGaedicke/user_control/issues), or collaborate =D, Enjoy! 
+Bugs? Create one [issue](https://github.com/LukasGaedicke/user_control/issues), or collaborate, Enjoy! 
 

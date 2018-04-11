@@ -14,7 +14,6 @@ var user = req.body;
 
 app.get('/users', function(req, res) {
   conn.query("SELECT * FROM user;", function(error, result){
-      console.log(result);
       res.render("users",  { users : result });
   });
 });
